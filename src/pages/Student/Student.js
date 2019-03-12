@@ -24,7 +24,7 @@ class Student extends Component {
   render() {
     return (
       <div>
-        <PageHeaderWrapper title="学生列表">学生管理</PageHeaderWrapper>
+        <PageHeaderWrapper title="学生列表">学生管学生理</PageHeaderWrapper>
       </div>
     );
   }
