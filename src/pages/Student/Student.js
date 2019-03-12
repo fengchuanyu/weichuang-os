@@ -25,7 +25,6 @@ class Student extends Component {
     return (
       <div>
         <PageHeaderWrapper title="学生列表">学生管理</PageHeaderWrapper>
-        <div>0</div>
       </div>
     );
   }
